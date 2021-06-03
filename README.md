@@ -1,7 +1,7 @@
 
  # I'm Jesse 
-- 🔭 I’m a Front End Developer
-- 🌱 I’m currently building around VueJs. I currently work at PathNg.
+- 🔭 I’m a Front End Developer, with an edge for building interfaces for the next gen users.
+- 🌱 I’m currently building around VueJs. I currently work at [PathNg](https://twitter.com/thepath_ng).
 - I have so many projects oriented on webAr, Math js libraries, css toolkits and so on;
--  if you want to work with me please hit me up on twitter [twitter](https://twitter.com/jesseakoh)
+-  if you want to work with me please hit me up on [twitter](https://twitter.com/jesseakoh)
 
