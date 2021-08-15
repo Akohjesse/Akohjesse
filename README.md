@@ -1,7 +1,10 @@
 
- # I'm Jesse 
-- 🔭 I’m a Web Developer, with an edge for building interfaces for the next gen users.
-- 🌱 I’m currently building around VueJs. I currently work at [PathNg](https://twitter.com/thepath_ng).
-- I have so many projects oriented on webAr, Math js libraries, css toolkits and so on;
--  if you want to work with me, hit me up on [twitter](https://twitter.com/jesseakoh)
+ # Hi there,
+<img style="width:100px" alt="chris" src="https://akohjesse.com/images/undraw_sculpting_1c9p.svg">
+ <br><br>
+ <div>
+ <p>I'm Jesse, I currently build on the web with the MEVN stack (Mongo, ExpressJS, VueJS ,NodeJS), Vue Native (for cross platform apps), Electron (Desktop apps).I'm thoroughly   vested in building scalable Products for people, brands and businesses 🚀🚀</p>
+</div>
+
+
 
