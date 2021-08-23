@@ -1,7 +1,8 @@
 
  # Hi there, Jesse here.
 <img style="width:100px" alt="chris" src="https://pbs.twimg.com/profile_images/1420128575223697416/RuxHTKeV_400x400.jpg">
- <br> 
+ <br>   
+ 
  ### <i>Unfortunately, i speak Javascript</i>
  
  # Programming Stack
