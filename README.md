@@ -1,6 +1,6 @@
 
  # Hi there, Jesse here.
- #  👨‍💻🏷
+ 
  I currently build on the web with the <b>MEVN</b> stack (Mongo, ExpressJS, VueJS ,NodeJS), <b>Vue Native</b> (for cross platform apps) and <b>ElectronJs</b> (Desktop apps). Check my pinned repo's to see some cool stuff i worked on. 
  
  # Contact
