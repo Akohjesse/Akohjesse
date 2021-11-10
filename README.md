@@ -1,7 +1,7 @@
 
- # Hi there, Jesse here.
- 
- I currently build on the web with the <b>MEVN</b> stack (Mongo, ExpressJS, VueJS ,NodeJS), <b>Vue Native</b> (for cross platform apps) and <b>ElectronJs</b> (Desktop apps). Check my pinned repo's to see some cool stuff i worked on. 
+ # Hi there,
+
+ Im a full stack web programmer, (web2.0, 3.0). My stack includes Js (Node.js & vue.js), solidity, and lots of css. Check my pinned repo's to see some cool stuff i worked on. 
  
  # Contact
  You can hit me up on twitter - [@jesseakoh](https://twitter.com/jesseakoh)
